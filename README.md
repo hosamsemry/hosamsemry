@@ -22,6 +22,8 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/"/>
+  <img src="https://img.shields.io/badge/postgresql%20-%23336791.svg?&style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/"/>
+  <img src="https://img.shields.io/badge/mysql%20-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/"/>
   
 </div>
 <br/>
