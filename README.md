@@ -1,6 +1,4 @@
-<p>
-  <img src="https://tse2.mm.bing.net/th?id=OIP.P6PMuocjtjUZLVk0F5wZUgHaFj&pid=Api&P=0&h=220">
-</p>
+
 
 # Hi, I'm Hosam semry 👋
 
