@@ -6,7 +6,7 @@
 <!-- **Vivekagent47/Vivekagent47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 Here are some ideas to get you started:
-- 🏫 I'm currently studing in faculty of Engineering computer department
+- 🏫 I recently graduated from faculty of Engineering computer department
 - 🔭 I’m currently working on enhancing my knowledge in back-end development
 - 🌱 I’m currently learning Python, Django, Postgresql 
 - 💬 Ask me about ... What ever :laughing:
