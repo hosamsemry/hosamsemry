@@ -1,5 +1,4 @@
 
-
 # Hi, I'm Hosam semry 👋
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/hosam-semry-158032265/)
@@ -43,5 +42,8 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/counter%20strike-%23000000.svg?&style=for-the-badge&logo=counter-strike" />
 </div>
 <br>
+
+![](https://komarev.com/ghpvc/?username=hosamsemry&label=PROFILE+VIEWS)
+
 
 
